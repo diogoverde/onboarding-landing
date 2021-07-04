@@ -15,9 +15,9 @@ const Hero = () => {
               className="text-5xl md:text-6xl font-extrabold leading-tighter tracking-tighter mb-4 "
               data-aos="zoom-y-out"
             >
-              Make your website{" "}
+              Onboarding <br />
               <span className="bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-teal-400">
-                wonderful
+                done right
               </span>
             </h1>
             <div className="max-w-3xl mx-auto">
@@ -26,8 +26,8 @@ const Hero = () => {
                 data-aos="zoom-y-out"
                 data-aos-delay="150"
               >
-                Our landing page template works on all devices, so you only have
-                to set it up once, and get beautiful results forever.
+                Forget what you know about onboarding and join us in making it a
+                success.
               </p>
               <div
                 className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center"
@@ -35,19 +35,18 @@ const Hero = () => {
                 data-aos-delay="300"
               >
                 <div>
-                  <a
-                    className="btn text-white bg-blue-600 hover:bg-blue-700 w-full mb-4 sm:w-auto sm:mb-0"
-                    href="#0"
-                  >
-                    Start free trial
-                  </a>
+                  <input
+                    type="text"
+                    placeholder="Your email here"
+                    className="mt-1 focus:ring-blue-600 focus:border-blue-600 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
+                  />
                 </div>
                 <div>
                   <a
-                    className="btn text-white bg-gray-900 hover:bg-gray-800 w-full sm:w-auto sm:ml-4"
+                    className="mt-4 sm:mt-0 btn text-white bg-blue-600 hover:bg-blue-700 w-full sm:w-auto sm:mb-0 sm:ml-4 "
                     href="#0"
                   >
-                    Learn more
+                    Start free trial
                   </a>
                 </div>
               </div>

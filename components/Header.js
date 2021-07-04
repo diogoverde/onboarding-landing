@@ -35,7 +35,7 @@ const Header = () => {
               </li>
               <li>
                 <Link href="/signup">
-                  <div className="btn-sm text-gray-200 bg-blue-500 hover:bg-blue-800 ml-3 cursor-pointer">
+                  <div className="btn-sm text-gray-200 bg-blue-600 hover:bg-blue-700 ml-3 cursor-pointer">
                     <span>Sign up</span>
                     <svg
                       className="w-3 h-3 fill-current text-gray-200 flex-shrink-0 ml-2 -mr-1"
