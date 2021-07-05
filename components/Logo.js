@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function Logo() {
   return (
     <div className="flex-shrink-0 mr-4 cursor-pointer">
-      <Link href="/" className="block" aria-label="Cruip">
+      <Link href="/" className="block" aria-label="Onboarding">
         <svg
           className="w-8 h-8"
           viewBox="0 0 32 32"
