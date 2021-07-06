@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@tailwindcss/forms": "^0.3.3",
+    "firebase": "^8.7.0",
     "next": "latest",
     "node-sass": "5.0.0",
     "react": "^17.0.2",
