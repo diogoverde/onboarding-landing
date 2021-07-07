@@ -42,14 +42,14 @@ const Footer = () => {
             </div>
             <div className="text-sm text-gray-600">
               <Link
-                href="#"
+                href="/terms"
                 className="text-gray-600 hover:text-gray-900 hover:underline transition duration-150 ease-in-out"
               >
                 Terms
               </Link>{" "}
               ·{" "}
               <Link
-                href="#"
+                href="/privacy"
                 className="text-gray-600 hover:text-gray-900 hover:underline transition duration-150 ease-in-out"
               >
                 Privacy Policy
@@ -79,7 +79,7 @@ const Footer = () => {
               </li>
               <li className="mb-2">
                 <Link
-                  href="#"
+                  href="/blog"
                   className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out"
                 >
                   Blog
